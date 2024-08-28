@@ -18,3 +18,9 @@ The script performs the following steps:
    - Visualizes the results by plotting the actual salary data points and the predicted values from the Decision Tree Regression model.
    - A high-resolution visualization is generated to capture the step-like nature of decision trees and how they fit the data.
 
+## Key Concepts Covered
+
+- **Decision Tree Regression:** A regression technique that splits the data into multiple decision branches to model non-linear relationships. Decision trees are non-parametric models, meaning they do not assume a specific form for the relationship between independent and dependent variables.
+- **Prediction:** Uses the trained decision tree to predict a salary based on a specific position level (6.5).
+- **Visualization:** Provides a visualization of the decision tree regression model, highlighting the discontinuous nature of the predictions, which is characteristic of decision trees.
+- **High-Resolution Plot:** Generates a finer grid of position levels to show the step-like predictions made by decision trees.
